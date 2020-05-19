@@ -1,6 +1,5 @@
 package Project;
 
-import com.mysql.cj.jdbc.result.ResultSetMetaData;
 
 import javax.xml.transform.Result;
 import java.sql.*;
